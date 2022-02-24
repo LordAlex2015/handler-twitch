@@ -1,10 +1,10 @@
 {
   "owners": [
-    "YOUR_TWITCH_NAME"
+    "rraajel"
   ],
-  "username": "Bot_USERNAME",
-  "password": "BOT OAUTH PASSWORD",
+  "username": "MyAndKyBot",
+  "password": "oauth:5f6ofyzyvfas8u9oga9csu1fr1j0e1",
   "channels": [
-    "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
+    "Rraajel twitch.tv/rraajel"
   ]
 }
